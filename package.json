@@ -1,0 +1,12 @@
+{
+  "name": "json-crud-api",
+  "version": "1.0.0",
+  "description": "Simple CRUD API using Express and a JSON file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
